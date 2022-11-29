@@ -54,7 +54,7 @@ body {
     aspect-ratio: 16/9;
     }
     hr {
-    border:1px solid var(--borderColor);
+        border: 0.01px solid #00000025;
     }
     video::-webkit-media-controls {
         display: none;
