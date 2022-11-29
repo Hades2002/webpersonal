@@ -30,7 +30,7 @@ body {
         font-family: 'Russo One', sans-serif;
         font-weight: 500;
     }
-    p, li, span, label, input, textarea{
+    p, li, span, label, input, textarea, div{
         color: var(--secondaryText);
         font-family: 'Roboto Mono', monospace;
     }
@@ -62,4 +62,14 @@ body {
     .s1{
         background-color: var(--mainColor);
         overflow:auto;
+    }
+    .skills{
+        background-color: var(--previewShadow);
+        padding: 10px;
+    }
+    span{
+        border: solid #17a1b92f;
+        border-radius: 0.375rem;
+        padding: 5px;
+        color: #0fabc6;
     }
