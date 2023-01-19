@@ -60,10 +60,10 @@ body {
         display: none;
     }
     span{
-        border: solid #17a1b92f;
+        border: solid #17a2b8;
         border-radius: 0.375rem;
         padding: 5px;
-        color: #0fabc6;
+        color: #17a2b8;
     }
     .s1{
         background-color: var(--mainColor);
